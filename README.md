@@ -1,17 +1,15 @@
 Natural Language Query Autocompletion for Segmentation
-
+(object_selective_segmentation)
 Deep Learning Final Project 4995
 
 Based largely on:
 
 Personalized Language Model for Query Auto-Completion
 
-Paper: https://arxiv.org/pdf/1804.09661.pdf
-github: https://github.com/ajaech/query_completion
-Segmentation from Natural Language Expressions
+Paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf
+github: https://github.com/ronghanghu/seg_every_thing
+Learning to Segment Every Thing
 
-Paper: https://arxiv.org/pdf/1603.06180.pdf
-github: https://github.com/ronghanghu/text_objseg
 Currently Implemented
 Train a query model with ReferIt captions using
 
