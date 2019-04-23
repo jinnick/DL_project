@@ -32,9 +32,8 @@ Description of code files:
 * infer_query_2.py - infer the segmentation map and bounding box of input image based on input query object
 * infer_simple.py - infer the segmentation mape and bounding boxes of all objects of input image.
 * build_dict.py - helper function to build a dictionary for indexing all classes in VG3K classes of VG dataset.
-* filter_class.py - script for training a new langauge model
-* dynamic.py - script for evaluating trained model on new users
-
-New files for ReferIt:
+* class_filter.py - helper function to set the bounding box of a object detected not present in input query object list to empy.
+* vis.py - visualize the image with segmentation map and bounding box.
+Dependencies:
 * build_referit_data.py - preprocess referit queries to feed to LSTM
 * build_coco_data.py - preprocess mscoco queries to feed to LSTM
