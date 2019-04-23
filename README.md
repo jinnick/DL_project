@@ -34,6 +34,8 @@ Description of code files:
 * build_dict.py - helper function to build a dictionary for indexing all classes in VG3K classes of VG dataset.
 * class_filter.py - helper function to set the bounding box of a object detected not present in input query object list to empy.
 * vis.py - visualize the image with segmentation map and bounding box.
+
 Dependencies:
-* build_referit_data.py - preprocess referit queries to feed to LSTM
-* build_coco_data.py - preprocess mscoco queries to feed to LSTM
+* caffe2 - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
+* detecteron - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
+
