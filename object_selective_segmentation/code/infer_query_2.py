@@ -59,20 +59,6 @@ def parse_args():
         type=str, 
         help='input query of list objects')
     parser.add_argument(
-        '--cfg',
-        dest='cfg',
-        help='cfg model file (/path/to/model_config.yaml)',
-        default=None,
-        type=str
-    )
-    parser.add_argument(
-        '--wts',
-        dest='weights',
-        help='weights model file (/path/to/model_weights.pkl)',
-        default=None,
-        type=str
-    )
-    parser.add_argument(
         '--output-dir',
         dest='output_dir',
         help='directory for visualization pdfs (default: /tmp/infer_simple)',
