@@ -38,7 +38,7 @@ Description of code files:
 
 Dependencies:
 * caffe2 - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
-* detecteron - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
+* detecteron - https://github.com/facebookresearch/Detectron
 * numpy
 * python 2.7
 * OpenCV
