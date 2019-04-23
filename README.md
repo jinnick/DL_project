@@ -31,6 +31,7 @@ python2 infer_query_2.py \
 Description of code files:
 * infer_query_2.py - infer the segmentation map and bounding box of input image based on input query object
 * infer_simple.py - infer the segmentation mape and bounding boxes of all objects of input image.
+* dummy_datasets.py - include all classes of objects in VG dataset.
 * build_dict.py - helper function to build a dictionary for indexing all classes in VG3K classes of VG dataset.
 * class_filter.py - helper function to set the bounding box of a object detected not present in input query object list to empy.
 * vis.py - visualize the image with segmentation map and bounding box.
@@ -38,4 +39,6 @@ Description of code files:
 Dependencies:
 * caffe2 - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
 * detecteron - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
+* numpy
+
 
