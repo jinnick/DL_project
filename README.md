@@ -36,7 +36,11 @@ Description of code files:
 * class_filter.py - helper function to set the bounding box of a object detected not present in input query object list to empy.
 * vis.py - visualize the image with segmentation map and bounding box.
 
+Description of data folder:
+
 Description of dataset:
+* Visual genome dataset - https://visualgenome.org/
+* Download - https://visualgenome.org/api/v0/api_home.html
 
 Dependencies:
 * caffe2 - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
