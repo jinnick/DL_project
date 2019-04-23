@@ -36,12 +36,14 @@ Description of code files:
 * class_filter.py - helper function to set the bounding box of a object detected not present in input query object list to empy.
 * vis.py - visualize the image with segmentation map and bounding box.
 
+Description of dataset:
+
 Dependencies:
 * caffe2 - https://github.com/ronghanghu/seg_every_thing/blob/master/INSTALL.md
 * detecteron - https://github.com/facebookresearch/Detectron
 * numpy
 * python 2.7
 * OpenCV
-* pycocotools - 
+* COCO API - https://github.com/cocodataset/cocoapi
 
 
