@@ -5,14 +5,10 @@ Deep Learning Final Project 4995
 
 Based largely on:
     
-   - Personalized Language Model for Query Auto-Completion 
-       * Paper: https://arxiv.org/pdf/1804.09661.pdf
-       * github: https://github.com/ajaech/query_completion
+   - Learning to Segment Every Thing
+       * Paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Learning_to_Segment_CVPR_2018_paper.pdf
+       * github: https://github.com/ronghanghu/seg_every_thing
        
-   - Segmentation from Natural Language
-Expressions 
-       * Paper: https://arxiv.org/pdf/1603.06180.pdf
-       * github: https://github.com/ronghanghu/text_objseg
 
 
 
