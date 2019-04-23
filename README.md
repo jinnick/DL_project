@@ -37,6 +37,9 @@ Description of code files:
 * vis.py - visualize the image with segmentation map and bounding box.
 
 Description of data folder:
+* VG_data_p2 - original images
+* p2_all_seg - output for segmentation for all objects in VG3K classes
+* p2_query_seg - output for segmentation for a subset of objects from input query
 
 Description of dataset:
 * Visual genome dataset - https://visualgenome.org/
